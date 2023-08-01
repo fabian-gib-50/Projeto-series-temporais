@@ -1,6 +1,5 @@
 ![New_banner](https://github.com/fabian-gib-50/Projeto-series-temporais/assets/79420053/64b0c529-0851-42cc-960f-ce72e453b0bc)
 # Predição de faturamento usando séries temporais
-Introdução
 Projeto de machine learning onde uso os conceitos de séries temporais para prever o faturamento de vendas de uma empresa para um período de 14 meses. Nesse projeto temos um dataset com as vendas mês a mês de 5 produtos de vendas B2B e a proposta é prever o faturamento usando os valores totais de faturamento mês a mês e comparar com a predição realizada a partir da soma das predições individuais de cada produto.
 
 5 produtos que são comercializados pela empresa:
